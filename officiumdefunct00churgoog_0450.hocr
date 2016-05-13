@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiumdefunct00churgoog_0450.png"; bbox 0 0 2946 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 248 206 1768 285">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 248 206 1768 285">
+     <span class='ocr_line' id='line_1_1' title="bbox 248 206 1768 285; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 248 216 390 285; x_wconf 76' lang='lat'><em>282</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 426 242 435 247; x_wconf 83' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1103 208 1386 278; x_wconf 60' lang='lat' dir='ltr'><em>smum</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1447 206 1768 279; x_wconf 38' lang='lat' dir='ltr'><em>musa-fid</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 352 2497 499">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 352 2497 499">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 352 2497 498; baseline -0.003 -66"><span class='ocrx_word' id='word_1_5' title='bbox 333 362 906 432; x_wconf 76' lang='lat' dir='ltr'><em>Alternativement</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 936 352 1057 422; x_wconf 68' lang='lat' dir='ltr'><em>utic,²</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1087 360 1368 498; x_wconf 65' lang='lat' dir='ltr'><em>Strophe]</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1390 359 1653 419; x_wconf 60' lang='lat' dir='ltr'><strong><em>&amp;deux</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1699 356 1898 434; x_wconf 69' lang='grc' dir='ltr'><em>υοίαὲ,</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1939 369 2004 419; x_wconf 73' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 2037 379 2160 420; x_wconf 80' lang='lat' dir='ltr'><em>une</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2193 376 2383 425; x_wconf 79' lang='lat' dir='ltr'><strong><em>autre</em></strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2422 387 2497 425; x_wconf 83' lang='lat' dir='ltr'><em>en</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1110 460 2370 499; baseline -0.001 -1"><span class='ocrx_word' id='word_1_14' title='bbox 1110 460 1119 464; x_wconf 89' lang='lat'>·</span> <span class='ocrx_word' id='word_1_15' title='bbox 1309 462 1340 498; x_wconf 88' lang='lat' dir='ltr'><em>c</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1364 460 1550 499; x_wconf 72' lang='lat' dir='ltr'><strong><em>aoeur.</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 2287 463 2316 468; x_wconf 47' lang='lat'>⁴</span> <span class='ocrx_word' id='word_1_18' title='bbox 2357 466 2370 471; x_wconf 55' lang='lat'><strong>⁴</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 255 543 2626 4194">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 255 543 2626 4194">
+     <span class='ocr_line' id='line_1_4' title="bbox 255 543 2626 4194; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 255 543 2626 4194; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

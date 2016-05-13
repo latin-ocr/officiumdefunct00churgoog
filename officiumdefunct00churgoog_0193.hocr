@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiumdefunct00churgoog_0193.png"; bbox 0 0 2946 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 748 332 2614 430">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 748 332 2614 430">
+     <span class='ocr_line' id='line_1_1' title="bbox 748 332 2614 430; baseline 0.011 -22"><span class='ocrx_word' id='word_1_1' title='bbox 748 359 1096 411; x_wconf 66' lang='lat' dir='ltr'><strong>mentm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1152 332 1481 412; x_wconf 65' lang='lat' dir='ltr'><strong>uiuentis</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1538 365 1706 415; x_wconf 69' lang='lat' dir='ltr'><strong>rona</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1758 364 1872 419; x_wconf 71' lang='lat' dir='ltr'><strong>us</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1922 365 2152 421; x_wconf 73' lang='lat' dir='ltr'><strong>uon-s-</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2520 361 2614 430; x_wconf 70' lang='lat'><strong>⁸0</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 320 468 2632 4393">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 320 468 2632 4393">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 468 2632 4393; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 320 468 2632 4393; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

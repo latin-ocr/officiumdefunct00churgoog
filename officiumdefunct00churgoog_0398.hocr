@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiumdefunct00churgoog_0398.png"; bbox 0 0 2946 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1031 231 2072 312">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1031 231 2072 312">
+     <span class='ocr_line' id='line_1_1' title="bbox 1031 231 2072 312; baseline -0.008 -4"><span class='ocrx_word' id='word_1_1' title='bbox 1031 253 1438 312; x_wconf 68' lang='lat' dir='ltr'><strong>ssxrosmo‘Ns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1488 253 1567 305; x_wconf 74' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1614 231 2072 306; x_wconf 65' lang='lat' dir='ltr'><strong>nkufimc‘rtous</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1460 1775 1989 1843">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1460 1775 1989 1843">
+     <span class='ocr_line' id='line_1_2' title="bbox 1460 1775 1989 1843; baseline -0.006 -54"><span class='ocrx_word' id='word_1_4' title='bbox 1460 1777 1682 1843; x_wconf 58' lang='grc' dir='ltr'>..ι-ξ..-</span> <span class='ocrx_word' id='word_1_5' title='bbox 1701 1775 1895 1791; x_wconf 65' lang='grc'><strong><em>.---</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1901 1777 1989 1791; x_wconf 72' lang='grc' dir='ltr'><strong><em>..ο-</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1460 1825 1991 1839">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1460 1825 1991 1839">
+     <span class='ocr_line' id='line_1_3' title="bbox 1460 1825 1991 1839; baseline -0.009 -1"><span class='ocrx_word' id='word_1_7' title='bbox 1460 1829 1554 1839; x_wconf 86' lang='lat'>.--—</span> <span class='ocrx_word' id='word_1_8' title='bbox 1612 1827 1681 1838; x_wconf 78' lang='grc' dir='ltr'><strong>--ι</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1701 1825 1991 1837; x_wconf 71' lang='lat'><em>——-——-..-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 401 368 2779 4178">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 401 368 2779 4178">
+     <span class='ocr_line' id='line_1_4' title="bbox 401 368 2779 4178; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 401 368 2779 4178; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2876 1047 2879 2066">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2876 1047 2879 2066">
+     <span class='ocr_line' id='line_1_5' title="bbox 2876 1047 2879 2066; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 2876 1047 2879 2066; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

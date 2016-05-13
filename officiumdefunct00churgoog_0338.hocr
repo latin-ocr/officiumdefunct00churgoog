@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./officiumdefunct00churgoog_0338.png"; bbox 0 0 2946 4619; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 378 204 1832 279">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 378 204 1832 279">
+     <span class='ocr_line' id='line_1_1' title="bbox 378 204 1832 279; baseline -0.007 -18"><span class='ocrx_word' id='word_1_1' title='bbox 378 209 521 279; x_wconf 83' lang='lat'><strong>180</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 632 277 635 279; x_wconf 63' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_3' title='bbox 1250 211 1464 261; x_wconf 78' lang='grc' dir='ltr'>110Μο</span> <span class='ocrx_word' id='word_1_4' title='bbox 1520 204 1832 271; x_wconf 67' lang='lat' dir='ltr'><strong>QUIDAM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 379 361 2743 3051">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 379 361 2743 3051">
+     <span class='ocr_line' id='line_1_2' title="bbox 379 361 2743 3051; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 379 361 2743 3051; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 865 3052 2526 3153">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 865 3052 2526 3153">
+     <span class='ocr_line' id='line_1_3' title="bbox 865 3052 2526 3153; baseline -0.002 -24"><span class='ocrx_word' id='word_1_6' title='bbox 865 3053 1128 3129; x_wconf 84' lang='lat' dir='ltr'>Ve-ni-</span> <span class='ocrx_word' id='word_1_7' title='bbox 1140 3062 1247 3148; x_wconf 85' lang='lat' dir='ltr'><strong>te,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1379 3077 1645 3127; x_wconf 83' lang='lat' dir='ltr'><strong>co-me-</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1777 3052 1885 3126; x_wconf 92' lang='lat' dir='ltr'>di·-</span> <span class='ocrx_word' id='word_1_10' title='bbox 1918 3063 1993 3126; x_wconf 79' lang='lat' dir='ltr'><strong>te</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2139 3077 2266 3153; x_wconf 83' lang='lat' dir='ltr'><strong>pa-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2339 3077 2526 3131; x_wconf 81' lang='lat' dir='ltr'><strong>nem</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 416 3283 2683 4134">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 416 3283 2683 4134">
+     <span class='ocr_line' id='line_1_4' title="bbox 416 3283 2683 4134; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 416 3283 2683 4134; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2884 806 2886 1550">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2884 806 2886 1550">
+     <span class='ocr_line' id='line_1_5' title="bbox 2884 806 2886 1550; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 2884 806 2886 1550; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
